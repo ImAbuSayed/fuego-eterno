@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fuego eterno
+
+This log tracks the cryptographic history and versioning for the song **Fuego eterno** (fuego-eterno).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T12:12:52.466502 | `v1` | `089d58bc263f3739ab2951c6cc9223dedb57aee30ff41899708b906263beb4f6` | `9802b35954dc1258c0253ea616a36497cdf65c2e0c4216c69f0362850ecb2cb0` | `2026-06-23_fuego-eterno-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
