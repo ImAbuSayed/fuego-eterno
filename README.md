@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Fuego eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-eterno/) |
+| **Get License** | [License this song: Fuego eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Fuego eterno quemando en la habitación
+> No necesito más nada, solo tu respiración
+> Nena, me tienes adicto a toda tu tentación
+> Esta noche es tuya y mía, sin ninguna condición
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
